@@ -1,16 +1,20 @@
 # Hi, I'm Kalller 🍄‍🟫
 
 <div align="center">
-  <div style="position: relative; display: inline-block; clear: both;">
-    <img src="assets/calico.gif" alt="Kitty" style="width: 80px; float: right; position: relative; top: -50px; margin-left: -68px;"/>
-    <pre>
- 💼 BSc & MSc @ POLITO
- 💻 System programming languages • DevOps
- 🧠 Data & AI | Backend & Systems Architecture | DevOps
- 📈 Big Data • Machine Learning • Web Apps
-    </pre>
-  </div>
+
+
+<!-- GIF -->
+<img src="assets/kitty-transparent.gif" alt="Kitty" width="200"/>
+
+<pre>
+    💼 BSc & MSc @ POLITO  
+    💻 System programming languages • DevOps 
+    🧠 Data & AI | Backend & Systems Architecture | DevOps  
+    📈 Big Data • Machine Learning • Web Apps
+</pre>
+
 </div>
+
 ## 🎓 Uni Projects
 A selection of academic projects developed during my MSc @ POLITO  
 
