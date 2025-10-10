@@ -8,9 +8,7 @@
 
 <pre>
     💼 BSc & MSc @ POLITO  
-    💻 System programming languages • DevOps 
-    🧠 Data & AI | Backend & Systems Architecture | DevOps  
-    📈 Big Data • Machine Learning • Web Apps
+    💻 Full-Stack Development • Systems & DevOps • Data & AI
 </pre>
 
 </div>
