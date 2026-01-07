@@ -1,30 +1,25 @@
-# Hi, I'm Kalller 🍄‍🟫
+# Kalller
 
-<div align="center">
+MSc student in **Computer Engineering (AI & Data Science)** at **Politecnico di Torino**.  
 
+## Uni Projects
 
-<!-- GIF -->
-<img src="assets/kitty-transparent.gif" alt="Kitty" width="200"/>
+- **InVista** — HCI project covering the full **human-centered design pipeline**.  
+  *React • Figma*
 
-<pre>
-    💼 BSc & MSc @ POLITO  
-    💻 Full-Stack Development • Systems & DevOps • Data & AI
-</pre>
+- **Priority-Scheduler** — Priority-based **thread scheduler** for PintOS OS.  
+  *C*
 
-</div>
+- **One-Pedal-Controller** — Automotive controller via **model-based design** + HIL simulation.  
+  *Matlab/Simulink • Stateflow*
 
-## 🎓 Uni Projects
-A selection of academic projects developed during my MSc @ POLITO  
+- **EZWallet** — Expense tracking app with API + UI prototyping.  
+  *Software engineering fundamentals*
 
-- [**InVista**](https://github.com/kalller/InVista) — Human-Computer Interaction project applying the full **human-centered design process** (needfinding, personas, prototyping, user testing, final prototype).  
+- **3D-Semantic-Novelty-Detection** — OOD/novelty detection on 3D point clouds using **3DOS**.  
+  *PointNet • Synthetic-to-real generalization*
 
-- [**Priority-Scheduler**](https://github.com/kalller/Priority-Scheduler) — **Priority-based CPU scheduler** in C for PintOS OS, managing threads by priority.  
+- **Virtual-Pet-LandTiger** — Tamagotchi-style game on ARM Cortex-M3.  
+  *Embedded C • Touch interactions • Timers*
 
-- [**One-Pedal-Controller**](https://github.com/kalller/One-Pedal-Controller) — **Model-Based Software Design** with Matlab/Simulink & Stateflow; automotive One Pedal Controller with HIL simulation.  
-
-- [**EZWallet**](https://github.com/kalller/EZWallet) — Personal finance app to **track & categorize expenses**. Includes requirements docs, GUI prototypes, API, and test reports.  
-
-- [**3D-Semantic-Novelty-Detection**](https://github.com/kalller/3D-Semantic-Novelty-Detection) — Research on **novelty detection in 3D point clouds** using PointNet & 3DOS benchmark; synthetic-to-real generalization and pretrained models.  
-
-- [**Virtual-Pet-LandTiger-LPC1768**](https://github.com/kalller/Virtual-Pet-LandTiger-LPC1768) — **Tamagotchi-style game** on ARM Cortex-M3 board with animations, touch interactions, sound, and hardware timers.  
 
